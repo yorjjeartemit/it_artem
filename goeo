@@ -1,0 +1,5 @@
+def iop():
+  print(hoho)
+
+iop()
+
